@@ -1,0 +1,6 @@
+{
+  "name": "Snithi Dental",
+  "description": "A premium, high-converting dental clinic website for Snithi Dental in Kompally, Hyderabad, featuring patient reviews, treatments, and online booking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
